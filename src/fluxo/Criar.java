@@ -10,7 +10,6 @@ public abstract class Criar  implements InterfaceRicardo{
 
 	public static void iniciar() {
 		for(Map.Entry<Enum<utilitarios.Formulario>, Map<Integer, String>> map : TodosCampos.formulario().entrySet()) {
-			Saida.
 			Saida.mostrarMap(map.getValue());
 		}
 		

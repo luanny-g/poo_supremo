@@ -7,5 +7,6 @@ public abstract class Atualizar  implements InterfaceRicardo{
 	public static void iniciar() {
 		
 		
+		
 	}
 }
